@@ -5973,9 +5973,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="812.70108"
-     inkscape:cy="55.506093"
+     inkscape:zoom="0.5"
+     inkscape:cx="380.37871"
+     inkscape:cy="95.217206"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6013,7 +6013,10 @@
      transform="translate(0,-540.36218)">
     <g
        id="g11933-7"
-       transform="matrix(10.583333,0,0,10.416667,14,379.69551)">
+       transform="matrix(10.583333,0,0,10.416667,14,379.69551)"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:0.4;fill:url(#radialGradient26436);fill-opacity:1;stroke:none"
          id="rect2801-6"
@@ -6041,7 +6044,10 @@
        id="g11905"
        style="opacity:0.6"
        transform="matrix(10.583333,0,0,10.416667,24.583242,379.69551)"
-       clip-path="url(#clipPath12574)">
+       clip-path="url(#clipPath12574)"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="fill:url(#linearGradient26442);fill-opacity:1;stroke:none;display:inline"
          id="path11884"
@@ -6065,11 +6071,17 @@
        height="31.749998"
        width="416.66669"
        id="rect12546"
-       style="fill:url(#linearGradient4425);fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:url(#linearGradient4425);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        style="opacity:0.8"
        id="g11910"
-       transform="matrix(10.583333,0,0,10.416667,-17.750091,379.69551)">
+       transform="matrix(10.583333,0,0,10.416667,-17.750091,379.69551)"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 12.999992,21.999863 c 6.416221,0 27.99997,0.0026 27.99997,0.0026 l 3e-5,37.997421 c 0,0 -18.666665,0 -28,0 0,-12.666694 0,-25.333191 0,-37.999833 z"
          inkscape:connector-curvature="0"
@@ -6093,290 +6105,66 @@
        height="31.749998"
        x="598.4455"
        y="-405.58331"
-       transform="matrix(0,1,-1,0,0,0)" />
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:url(#radialGradient4529);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5505-21-2"
        y="603.65387"
        x="72.208328"
        height="406.25"
-       width="306.91666" />
+       width="306.91666"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.5;fill:none;stroke:url(#linearGradient4526);stroke-width:10.49966908;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect6741"
        y="614.0705"
        x="82.791664"
        height="385.41669"
-       width="285.75" />
+       width="285.75"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.3;color:#000000;fill:none;stroke:#000000;stroke-width:10.49966908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5505-21-8"
        y="603.65387"
        x="72.208328"
        height="406.25"
-       width="306.91666" />
-    <g
-       id="g4484"
-       transform="translate(902.26825,-147.07821)">
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6902"
-         width="10.583333"
-         height="10.416667"
-         x="119.83333"
-         y="817.1955" />
-      <rect
-         y="817.1955"
-         x="141"
-         height="10.416667"
-         width="42.333332"
-         id="rect6904"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6906"
-         width="31.749998"
-         height="10.416667"
-         x="193.91666"
-         y="817.1955" />
-      <rect
-         y="817.1955"
-         x="236.25"
-         height="10.416667"
-         width="10.583333"
-         id="rect6908"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6910"
-         width="31.749998"
-         height="10.416667"
-         x="257.41666"
-         y="817.1955" />
-      <rect
-         y="817.1955"
-         x="299.75"
-         height="10.416667"
-         width="31.749998"
-         id="rect6912"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6914"
-         width="31.749998"
-         height="10.416667"
-         x="141"
-         y="838.02887" />
-      <rect
-         y="838.02887"
-         x="183.33333"
-         height="10.416667"
-         width="52.916664"
-         id="rect6916"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6918"
-         width="42.333332"
-         height="10.416667"
-         x="246.83333"
-         y="838.02887" />
-      <rect
-         y="858.86218"
-         x="119.83333"
-         height="10.416667"
-         width="63.499996"
-         id="rect6920"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6922"
-         width="10.583333"
-         height="10.416667"
-         x="193.91666"
-         y="858.86218" />
-      <rect
-         y="858.86218"
-         x="215.08333"
-         height="10.416667"
-         width="31.749998"
-         id="rect6924"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6926"
-         width="42.333332"
-         height="10.416667"
-         x="257.41666"
-         y="858.86218" />
-      <rect
-         y="838.02887"
-         x="299.75"
-         height="10.416667"
-         width="31.749998"
-         id="rect6928"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         y="858.86218"
-         x="310.33331"
-         height="10.416667"
-         width="21.166666"
-         id="rect6930"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6932"
-         width="31.749998"
-         height="10.416667"
-         x="119.83333"
-         y="879.6955" />
-      <rect
-         y="879.6955"
-         x="162.16666"
-         height="10.416667"
-         width="21.166666"
-         id="rect6934"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6936"
-         width="42.333332"
-         height="10.416667"
-         x="193.91666"
-         y="879.6955" />
-      <rect
-         y="879.6955"
-         x="246.83333"
-         height="10.416667"
-         width="52.916664"
-         id="rect6938"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6940"
-         width="21.166666"
-         height="10.416667"
-         x="310.33331"
-         y="879.6955" />
-      <rect
-         y="900.52887"
-         x="119.83333"
-         height="10.416667"
-         width="84.666664"
-         id="rect6942"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6944"
-         width="10.583333"
-         height="10.416667"
-         x="215.08333"
-         y="900.52887" />
-      <rect
-         y="900.52887"
-         x="236.25"
-         height="10.416667"
-         width="31.749998"
-         id="rect6946"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6948"
-         width="52.916664"
-         height="10.416667"
-         x="278.58331"
-         y="900.52887" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6950"
-         width="63.499996"
-         height="10.416667"
-         x="119.83333"
-         y="921.36218" />
-      <rect
-         y="921.36218"
-         x="193.91666"
-         height="10.416667"
-         width="10.583333"
-         id="rect6952"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6954"
-         width="31.749998"
-         height="10.416667"
-         x="215.08333"
-         y="921.36218" />
-      <rect
-         y="921.36218"
-         x="257.41666"
-         height="10.416667"
-         width="42.333332"
-         id="rect6956"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6958"
-         width="21.166666"
-         height="10.416667"
-         x="310.33331"
-         y="921.36218" />
-      <rect
-         y="942.19556"
-         x="119.83333"
-         height="10.416667"
-         width="31.749998"
-         id="rect6960"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6962"
-         width="21.166666"
-         height="10.416667"
-         x="162.16666"
-         y="942.19556" />
-      <rect
-         y="942.19556"
-         x="193.91666"
-         height="10.416667"
-         width="42.333332"
-         id="rect6964"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6966"
-         width="52.916664"
-         height="10.416667"
-         x="246.83333"
-         y="942.19556" />
-      <rect
-         y="942.19556"
-         x="310.33331"
-         height="10.416667"
-         width="21.166666"
-         id="rect6968"
-         style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    </g>
+       width="306.91666"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect8740"
        width="507.99997"
        height="500.00003"
        x="14"
-       y="546.36218" />
+       y="546.36218"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g4459"
        transform="matrix(0.55509318,0,0,0.55509318,234.48162,504.55734)"
-       style="fill:#999999">
+       style="fill:#808080"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <text
          transform="scale(0.98464221,1.0155973)"
          sodipodi:linespacing="125%"
          id="text4181-3"
          y="788.28595"
          x="-255.39842"
-         style="font-size:209.76347350999998298px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.13440863000000000;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-size:209.76347350999998298px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:0.13440863000000000;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          xml:space="preserve"><tspan
-           style="font-size:209.76347350999998298px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:0.13440863000000000;font-family:Khmer Mondulkiri;-inkscape-font-specification:Khmer Mondulkiri"
+           style="font-size:209.76347350999998298px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.13440863000000000;font-family:Khmer Mondulkiri;-inkscape-font-specification:Khmer Mondulkiri"
            y="788.28595"
            x="-255.39842"
            id="tspan4183-0"
@@ -6387,9 +6175,9 @@
          id="text4181-3-0"
          y="873.04889"
          x="162.02148"
-         style="font-size:182.84211730999999190px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:0.79569893999999985;stroke:none;filter:url(#filter5165);font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-size:182.84211730999999190px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:0.79569893999999985;stroke:none;filter:url(#filter5165);font-family:Open Sans;-inkscape-font-specification:Open Sans"
          xml:space="preserve"><tspan
-           style="font-size:182.84211730999999190px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:0.79569893999999985;font-family:Khmer Mondulkiri;-inkscape-font-specification:Khmer Mondulkiri"
+           style="font-size:182.84211730999999190px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:0.79569893999999985;font-family:Khmer Mondulkiri;-inkscape-font-specification:Khmer Mondulkiri"
            y="873.04889"
            x="162.02148"
            id="tspan4183-0-0"
@@ -6400,9 +6188,9 @@
          id="text4181"
          y="794.677"
          x="-246.22029"
-         style="font-size:209.76347350999998298px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.88429756999999998;fill:#999999;fill-opacity:1;stroke:url(#radialGradient4473);stroke-width:1.14723825000000001;stroke-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-size:209.76347350999998298px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.88429756999999998;fill:#808080;fill-opacity:1;stroke:url(#radialGradient4473);stroke-width:1.14723825000000001;stroke-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          xml:space="preserve"><tspan
-           style="font-size:209.76347350999998298px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;stroke:url(#radialGradient4473);stroke-width:1.14723825000000001;stroke-opacity:1;font-family:Khmer Mondulkiri;-inkscape-font-specification:Khmer Mondulkiri"
+           style="font-size:209.76347350999998298px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;stroke:url(#radialGradient4473);stroke-width:1.14723825000000001;stroke-opacity:1;font-family:Khmer Mondulkiri;-inkscape-font-specification:Khmer Mondulkiri"
            y="794.677"
            x="-246.22029"
            id="tspan4183"
@@ -6410,7 +6198,10 @@
     </g>
     <g
        id="g4475"
-       transform="translate(323.61227,60.225395)">
+       transform="translate(323.61227,60.225395)"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:nodetypes="cccccccc"
          id="path1388-0-8"
@@ -6442,7 +6233,10 @@
     </g>
     <g
        id="g4169"
-       transform="matrix(1.0002875,0,0,0.96111915,-73.986976,-211.12889)">
+       transform="matrix(1.0002875,0,0,0.96111915,-73.986976,-211.12889)"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="919.9433"
          x="211.77403"
@@ -6510,7 +6304,10 @@
     <g
        id="g4459-0"
        transform="matrix(0.55509318,0,0,0.55509318,256.85444,504.23103)"
-       style="fill:#999999">
+       style="fill:#999999"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <text
          transform="scale(0.98464221,1.0155973)"
          sodipodi:linespacing="125%"
@@ -6557,49 +6354,70 @@
        width="31.759127"
        height="10.011658"
        x="172.69586"
-       y="915.72235" />
+       y="915.72235"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        y="915.72235"
        x="215.04138"
        height="10.011658"
        width="52.931877"
        id="rect6818-9-3"
-       style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect6820-9-4"
        width="42.345505"
        height="10.011658"
        x="278.55969"
-       y="915.72235" />
+       y="915.72235"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        y="935.74567"
        x="151.52313"
        height="10.011658"
        width="63.518253"
        id="rect6822-7-3"
-       style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect6824-9-8"
        width="10.586376"
        height="10.011658"
        x="225.62775"
-       y="935.74567" />
+       y="935.74567"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        y="935.74567"
        x="246.80054"
        height="10.011658"
        width="31.759127"
        id="rect6826-4-7"
-       style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect6828-1-7"
        width="42.345505"
        height="10.011658"
        x="289.146"
-       y="935.74567" />
+       y="935.74567"
+       inkscape:export-filename="/home/rho/Escritorio/lyx.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
