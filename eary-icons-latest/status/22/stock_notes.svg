@@ -15,7 +15,7 @@
    id="svg4230"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gnote.svg">
+   sodipodi:docname="xfce4-notes-plugin.svg">
   <defs
      id="defs4232">
     <linearGradient
@@ -79,44 +79,43 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       d="m 13.27135,1016.9108 0,0 22.831569,0 -22.831569,0 z"
+       d="m 10.250315,1014.6122 0,0 27.5,0 L 10.250315,1014.6122 Z"
        style="fill:#000000;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none"
        id="path4072"
        inkscape:connector-curvature="0" />
     <g
-       id="g2997"
-       transform="matrix(0.83023888,0,0,0.83023888,4.7611395,174.54032)">
+       id="g2997">
       <path
          inkscape:connector-curvature="0"
          id="path4102"
-         style="fill:#000000;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none"
-         d="m 10.249686,1018.3622 27.499999,0 0,-3.75 -27.5,0 1e-6,3.75 z" />
+         style="opacity:1;fill:#000000;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none"
+         d="m 10.249686,1018.3622 27.499999,0 0,-3.75 -27.5,0 L 10.249686,1018.3622 Z" />
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path4104"
          style="fill:#000000;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none"
-         d="m 10.250315,1022.3622 0,19.75 20,0 0,-7.5 7.5,0 0,-12.25 z" />
+         d="m 10.250315,1022.3622 0,19.75 20,0 0,-7.5 7.5,0 L 37.750315,1022.3622 Z" />
     </g>
     <path
-       d="m 30.913926,1034.5534 4.151195,0 -4.151195,4.1512 0,-4.1512 z"
+       d="m 31.500315,1035.8622 5,0 -5,5 L 31.500315,1035.8622 Z"
        style="fill:#000000;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none"
        id="path4106"
        inkscape:connector-curvature="0" />
     <g
-       transform="matrix(0.83023888,0,0,0.83023888,4.4249279,174.19218)"
+       transform="translate(-0.40495775,-0.41932319)"
        id="g2997-1"
-       style="fill:#ececec;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path4102-4"
-         style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 10.249686,1018.3622 27.499999,0 0,-3.75 -27.5,0 1e-6,3.75 z" />
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path4104-4"
-         style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 10.250315,1022.3622 0,19.75 20,0 0,-7.5 7.5,0 0,-12.25 z" />
     </g>
   </g>

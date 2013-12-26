@@ -15,31 +15,31 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="blueman.svg">
+   sodipodi:docname="jupiter.svg">
   <defs
      id="defs4">
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="1007.3235"
-       x2="30.296669"
-       y1="1049.4602"
-       x1="30.296669"
-       id="linearGradient7861"
-       xlink:href="#linearGradient4678"
-       inkscape:collect="always"
-       gradientTransform="translate(-1.8847656e-6,1.9961484e-4)" />
-    <linearGradient
-       id="linearGradient4678"
+       id="linearGradient4708"
        inkscape:collect="always">
       <stop
-         id="stop4680"
+         id="stop4710"
          offset="0"
-         style="stop-color:#0a7fe7;stop-opacity:1" />
+         style="stop-color:#47b73d;stop-opacity:1" />
       <stop
-         id="stop4682"
+         id="stop4712"
          offset="1"
-         style="stop-color:#50bffc;stop-opacity:1" />
+         style="stop-color:#ade355;stop-opacity:1" />
     </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-1.0986328e-6,8.1910157e-5)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4708"
+       id="linearGradient4101"
+       x1="29.109528"
+       y1="1049.3851"
+       x2="29.109528"
+       y2="1007.3748"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -48,9 +48,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.747078"
-     inkscape:cx="15.717671"
-     inkscape:cy="22.787765"
+     inkscape:zoom="4.1845914"
+     inkscape:cx="-34.22999"
+     inkscape:cy="6.657932"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,7 +61,7 @@
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid3850" />
+       id="grid3803" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -81,16 +81,41 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       sodipodi:nodetypes="ccccccccccccccccccccc"
-       style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:none;display:inline"
-       d="m 22.6704,1015.3622 0,10.3632 -5.8552,-4.3812 -1.6273,1.6217 6.9459,5.3963 -6.6652,5.3356 1.7553,1.7939 5.4465,-4.4077 0,10.2782 10.1417,-7.5674 -6.7209,-5.3465 6.5063,-5.2733 z m 2.6868,5.0423 3.4036,2.8562 -3.4036,2.5765 z m -10e-5,10.7644 3.511,2.54 -3.5132,2.2958 c 0,-1.741 0,-3.1287 0,-4.8358 z"
-       id="path4050"
+       style="fill:#000000"
+       d=""
+       id="path906"
        inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccccccccccccccccccccc"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline;opacity:1"
-       d="m 21.891407,1015.1998 0,10.3632 -5.8552,-4.3812 -1.6273,1.6217 6.9459,5.3963 -6.6652,5.3356 1.7553,1.7939 5.4465,-4.4077 0,10.2782 10.1417,-7.5674 -6.7209,-5.3465 6.5063,-5.2733 z m 2.6868,5.0423 3.4036,2.8562 -3.4036,2.5765 z m -10e-5,10.7644 3.511,2.54 -3.5132,2.2958 c 0,-1.741 0,-3.1287 0,-4.8358 z"
-       id="path4050-7"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g4278"
+       transform="matrix(0.84415278,-0.48134204,0.48134204,0.84415278,2.6076796,1022.3552)"
+       style="fill:#000000;fill-opacity:0.49803922">
+      <g
+         id="Layer_1"
+         style="fill:#000000;fill-opacity:0.49803922" />
+      <g
+         id="bolt"
+         style="fill:#000000;fill-opacity:0.49803922">
+        <polygon
+           id="polygon4270"
+           points="8,16 14,20 0,32 24,20 18,16 32,0 "
+           style="fill:#000000;fill-opacity:0.49803922" />
+      </g>
+    </g>
+    <g
+       id="g4278-3"
+       transform="matrix(0.84415278,-0.48134204,0.48134204,0.84415278,2.44351,1021.2262)"
+       style="fill:#ffffff;fill-opacity:1;opacity:1">
+      <g
+         id="Layer_1-0"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="bolt-7"
+         style="fill:#ffffff;fill-opacity:1">
+        <polygon
+           id="polygon4270-8"
+           points="8,16 14,20 0,32 24,20 18,16 32,0 "
+           style="fill:#ffffff;fill-opacity:1" />
+      </g>
+    </g>
   </g>
 </svg>
