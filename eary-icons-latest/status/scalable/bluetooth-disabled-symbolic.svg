@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Gnome Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title9167">Gnome Symbolic Icon Theme</title>
+ <g id="layer9" transform="translate(-61 -317)">
+  <path id="path10847" style="opacity:.7;block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#bebebe" d="m67.878 317.02a0.99459 0.99459 0 0 0 -0.87018 0.99448v3.5429l-1.2742-1.2742a1.0109 1.0109 0 1 0 -1.4296 1.4296l2.7038 2.7038v1.1188l-2.7038 2.7038a1.0109 1.0109 0 1 0 1.4296 1.4296l1.2742-1.2742v3.5429a0.99459 0.99459 0 0 0 1.7093 0.71479l2.2687-2.2687v-3.4186h1.4296l-1.989-1.989 2.2687-2.2687a0.99459 0.99459 0 0 0 0 -1.4296l-3.9779-3.9779a0.99459 0.99459 0 0 0 -0.8391 -0.2797zm1.1188 3.4186 1.5539 1.5539-1.5539 1.5539v-3.1078zm0 5.9669 1.5539 1.5539-1.5539 1.5539v-3.1078z"/>
+  <rect id="rect10849" style="opacity:0.686;fill:#bebebe" height=".99449" width=".99449" y="320.01" x="64.025"/>
+  <rect id="rect10851" style="opacity:0.686;fill:#bebebe" height=".99449" width=".99449" y="328.96" x="64.025"/>
+  <rect id="rect10853" style="opacity:0.686;fill:#bebebe" height=".99449" width=".99449" y="331.91" x="67.008"/>
+  <rect id="rect10855" style="opacity:0.686;fill:#bebebe" height=".99449" width=".99449" y="317.05" x="67.008"/>
+  <path id="path3761-2-3-5-4-8-9-8-0-9" style="color:#bebebe;fill:#bebebe" d="m72 328h1.375l1.125 1.0938 1.0938-1.0938h1.4062v1.4688l-1.0938 1.0625 1.0938 1.0625v1.4062h-1.4375l-1.0625-1.0625-1.0625 1.0625h-1.4375v-1.4062l1.0625-1.0625-1.0625-1.0625v-1.4688z"/>
+ </g>
+</svg>
